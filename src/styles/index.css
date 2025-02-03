@@ -1,0 +1,31 @@
+  /* Estilos específicos para elementos de pagina1.html */
+
+.contenedor-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+/* Estilos para los testimonios */
+#testimonios {
+  background-color: #f5f5f5;
+  padding: 80px 0;
+}
+
+#testimonios h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contenedor-testimonios {
+  display: flex;
+  justify-content: space-around;
+}
+
+.testimonio {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

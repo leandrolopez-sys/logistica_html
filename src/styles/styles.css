@@ -1,0 +1,22 @@
+/* Estilo general */
+body {
+    background-color: #f0f0f0;
+    color: #1e1e1e;
+    font-family: 'Roboto', sans-serif; 
+  }
+
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Estilos para encabezados */
+  h1, h2, h3 {
+    text-align: center;
+  }
+  
+  /* Enlaces */
+  a {
+    text-decoration: none;
+    color: #00a0e9;
+  }
